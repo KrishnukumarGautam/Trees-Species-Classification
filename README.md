@@ -79,7 +79,7 @@ Loss & Accuracy plots (visualized using Matplotlib)
 ✔️ Made Colab-compatible version for easy execution
 
 📚 Libraries Used
-Python 3.x
+Python 
 
 TensorFlow / Keras
 
@@ -93,9 +93,7 @@ OpenCV (optional)
 
 Install using:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 📌 Project Status
 ✅ Model Training Complete
