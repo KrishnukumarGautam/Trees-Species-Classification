@@ -67,7 +67,7 @@ Confusion Matrix
 
 Loss & Accuracy plots (visualized using Matplotlib)
 
-🔧 Improvements Done (Week 2)
+🔧 Improvements Done:
 ✔️ Cleaned dataset and ensured consistent folder structure
 
 ✔️ Optimized CNN architecture for better accuracy
