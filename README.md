@@ -110,7 +110,7 @@ This project is done under the guidance of Edunet Foundation, in collaboration w
 
 🔗 GitHub
 Feel free to explore or fork this repository:
-👉 [Your GitHub Repo URL here]
+👉 https://github.com/KrishnukumarGautam/Trees-Species-Classification
 
 🧑‍💻 Author
 Krishnu Kumar Gautam
