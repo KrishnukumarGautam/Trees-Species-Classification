@@ -13,9 +13,7 @@ Tree-Species-Classification/
 ├── README.md # Project documentation
 └── requirements.txt # List of required Python libraries
 
-yaml
-Copy
-Edit
+
 
 ---
 
